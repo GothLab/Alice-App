@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Trajan Pro 3';
-	src: url(/assets/fonts/Trajan%20Pro%203-ca70a613769ccbea016fc644490a6a6b.woff2) format('woff2'),
-	url(/assets/fonts/Trajan%20Pro%203-10d049cd2a544854c43f4ad34936b387.woff) format('woff');
+	src: url(../../assets/fonts/Trajan%20Pro%203-ca70a613769ccbea016fc644490a6a6b.woff2) format('woff2'),
+	url(../../assets/fonts/Trajan%20Pro%203-10d049cd2a544854c43f4ad34936b387.woff) format('woff');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto;
