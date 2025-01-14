@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Alessandra';
-	src: url(../../assets/fonts/Alessandra-bea6c70508e63c0399d4da453c85a7d3.woff2) format('woff2'),
-	url(../../assets/fonts/Alessandra-2e9ff5b998cbff7c7f202cbe01a88884.woff) format('woff');
+	src: url(/assets/fonts/Alessandra-bea6c70508e63c0399d4da453c85a7d3.woff2) format('woff2'),
+	url(/assets/fonts/Alessandra-2e9ff5b998cbff7c7f202cbe01a88884.woff) format('woff');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto;

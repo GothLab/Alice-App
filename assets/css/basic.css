@@ -117,7 +117,7 @@ body {
   display: block;
   position: absolute;
   width: 50vw;
-  background: url("../../assets/img/2Layer2%200.png") left / contain no-repeat, transparent;
+  background: url("/assets/img/2Layer2%200.png") left / contain no-repeat, transparent;
   left: 0;
   height: 100vh;
 }

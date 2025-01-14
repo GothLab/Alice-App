@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Kis Text BT OSF Web';
-	src: url(../../assets/fonts/Kis%20Text%20BT%20OSF%20Web-852d058db3029c2f5e0a37e406900752.woff2) format('woff2'),
-	url(../../assets/fonts/Kis%20Text%20BT%20OSF%20Web-3958bf7f732beaa7bb003898314b0d6c.woff) format('woff');
+	src: url(/assets/fonts/Kis%20Text%20BT%20OSF%20Web-852d058db3029c2f5e0a37e406900752.woff2) format('woff2'),
+	url(/assets/fonts/Kis%20Text%20BT%20OSF%20Web-3958bf7f732beaa7bb003898314b0d6c.woff) format('woff');
 	font-weight: normal;
 	font-style: italic;
 	font-display: auto;
